@@ -84,7 +84,7 @@
 
             </div><a class="navbar-brand" href="/">
               <div class="d-flex align-items-center py-3">
-                <img class="me-2" src="{{ asset("mbpp.png") }}" alt="" width="40" /><span class="font-sans-serif" style="color:">MBPP</span>
+                <img class="me-2" src="{{ asset("Majlis.png") }}" alt="" width="40" /><span class="font-sans-serif" style="color:">Majlis</span>
                 {{-- <img class="me-2" src="{{ asset("kpm-logo.png") }}" alt="" width="40" /><span class="font-sans-serif">KPM</span> --}}
               </div>
             </a>
@@ -780,7 +780,7 @@
   <div class="col-lg-12">
     <div class="card mb-3">
       <div class="card-header d-flex flex-between-center bg-light py-2">
-        <h6 class="mb-0">Laporan Aktiviti MBPP</h6>
+        <h6 class="mb-0">Laporan Aktiviti Majlis</h6>
         <div class="dropdown font-sans-serif btn-reveal-trigger">
           <button class="btn btn-link text-600 btn-sm dropdown-toggle dropdown-caret-none btn-reveal" type="button" id="dropdown-active-user-report" data-bs-toggle="dropdown" data-boundary="viewport" aria-haspopup="true" aria-expanded="false"><span class="fas fa-ellipsis-h fs--2"></span></button>
           <div class="dropdown-menu dropdown-menu-end border py-2" aria-labelledby="dropdown-active-user-report"><a class="dropdown-item" href="#!">Lihat</a>
@@ -866,7 +866,7 @@
   <div class="col-lg-12">
     <div class="card mb-3">
       <div class="card-header d-flex flex-between-center bg-light py-2">
-        <h6 class="mb-0">Penguna MBPP</h6>
+        <h6 class="mb-0">Penguna Majlis</h6>
         <div class="dropdown font-sans-serif btn-reveal-trigger">
           <button class="btn btn-link text-600 btn-sm dropdown-toggle dropdown-caret-none btn-reveal" type="button" id="dropdown-active-user-report" data-bs-toggle="dropdown" data-boundary="viewport" aria-haspopup="true" aria-expanded="false"><span class="fas fa-ellipsis-h fs--2"></span></button>
           <div class="dropdown-menu dropdown-menu-end border py-2" aria-labelledby="dropdown-active-user-report"><a class="dropdown-item" href="#!">View</a><a class="dropdown-item" href="#!">Export</a>

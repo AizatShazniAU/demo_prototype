@@ -11,7 +11,7 @@
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
-    <title>MBPP</title>
+    <title>Majlis</title>
 
 
     <!-- ===============================================-->
@@ -74,7 +74,7 @@
         <div class="row flex-center min-vh-100 py-6">
           <div class="col-sm-10 col-md-8 col-lg-6 col-xl-5 col-xxl-4"><a class="d-flex flex-center mb-4" href="/index.html">
             {{-- <img class="me-2" src="/assets/img/icons/spot-illustrations/falcon.png" alt="" width="58" /> --}}
-            <img class="me-2" src="{{ asset("mbpp.png") }}" alt="" width="100" />
+            <img class="me-2" src="{{ asset("Majlis.png") }}" alt="" width="100" />
         <x-auth-validation-errors class="mb-4" :errors="$errors" />
 
 

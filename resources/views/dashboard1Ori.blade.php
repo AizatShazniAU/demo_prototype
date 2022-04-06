@@ -84,7 +84,7 @@
 
             </div><a class="navbar-brand" href="/">
               <div class="d-flex align-items-center py-3">
-                <img class="me-2" src="{{ asset("mbpp.png") }}" alt="" width="40" /><span class="font-sans-serif" style="color:">MBPP</span>
+                <img class="me-2" src="{{ asset("Majlis.png") }}" alt="" width="40" /><span class="font-sans-serif" style="color:">Majlis</span>
                 {{-- <img class="me-2" src="{{ asset("kpm-logo.png") }}" alt="" width="40" /><span class="font-sans-serif">KPM</span> --}}
               </div>
             </a>
